@@ -1,7 +1,9 @@
 let state = {
    // start-state
    loginUser: null,
-   newsKey: ''
+   newsKey: '',
+   name: '',
+   taskId: ''
    // end-state
 };
 

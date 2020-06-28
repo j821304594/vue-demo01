@@ -1,6 +1,8 @@
 let state = {
    // start-state
-	loginUser: null,
+   loginUser: null,
+   name: '',
+   taskId: ''
    // end-state
 };
 

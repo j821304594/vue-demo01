@@ -21,7 +21,7 @@
       </div>
       <div class="exception">
         <div class="exception__headline">抱歉，你访问的页面不存在</div>
-        <el-button>测试1122</el-button>
+        <el-button>测试112233</el-button>
       </div>
     </div>
   </div>

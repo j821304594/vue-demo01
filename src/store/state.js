@@ -1,6 +1,7 @@
 let state = {
    // start-state
-	loginUser: null,
+   loginUser: null,
+   newsKey: ''
    // end-state
 };
 

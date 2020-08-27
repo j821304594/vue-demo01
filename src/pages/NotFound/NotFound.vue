@@ -31,12 +31,20 @@
 // import {ipcRenderer} from 'electron';
 
 export default {
-   name: 'NotFound',
-   data() {
-      return {
-         bgData: require('../../assets/404.png')
-      };
-   },
+  name: 'NotFound',
+  data() {
+    return {
+        bgData: require('../../assets/404.png')
+    };
+  },
+  mounted() {
+    this.show();
+  },
+  methods: {
+    show() {
+      console.log('show');
+    }
+  }
 };
 </script>
 >

@@ -2,6 +2,7 @@
   <div class="app-wrapper">
     <side-bar class="sidebar-container" />
     <div class="main-container">
+      <span>issue123</span>
       <nav-bar />
       <app-main />
     </div>
